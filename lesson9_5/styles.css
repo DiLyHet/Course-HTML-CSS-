@@ -37,8 +37,8 @@ margin-top: 0px;
     height: 200px;
     background-color: aquamarine;
     position: relative;
-    top: 50%;
-    bottom: 50%;
+    top: 5%;
+    bottom: 95%;
     left: 45%;
     right: 55%;
 }
