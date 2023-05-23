@@ -15,16 +15,14 @@ z-index: 2;
     position: absolute;
     height: 40px;
     line-height: 50%;
-    padding-right: 6px;
+    margin-left: 16px;
     display: inline-block;
 }
 
 .nav-item {
     position: relative;
-   
-   
     display: inline-block; 
-    margin-left: 16px;
+    margin-right: 12px;
     color: white;
     
 }
