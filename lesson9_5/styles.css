@@ -37,10 +37,10 @@ margin-top: 0px;
     height: 200px;
     background-color: aquamarine;
     position: relative;
+    left: calc(50%);
+    right: calc(50%);
     top: 3%;
-    bottom: 97%;
-    left: 33.5%;
-    right: 66.5%;
+  
 }
 
 .ear {
