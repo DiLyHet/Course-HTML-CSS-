@@ -12,12 +12,15 @@ z-index: 2;
 }
 
 .navigation {
+    position: absolute;
     height: 40px;
     display: inline-block;
 margin-top: 0px;
 }
 
 .nav-item {
+    position: relative;
+    top: 50%;
     height: 40px;
     display: inline-block; 
     margin-left: 16px;
