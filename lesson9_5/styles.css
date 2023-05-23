@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
     z-index: 1;
-    margin: 0;
 }
 
 .header {
@@ -16,7 +15,6 @@ z-index: 2;
     position: absolute;
     height: 40px;
     display: inline-block;
-margin-top: 0px;
 }
 
 .nav-item {
@@ -27,6 +25,9 @@ margin-top: 0px;
     margin-left: 16px;
     color: white;
     line-height: 50%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
 }
 
 .content {
