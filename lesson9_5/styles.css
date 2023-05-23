@@ -14,18 +14,18 @@ z-index: 2;
 .navigation {
     position: absolute;
     height: 40px;
+    line-height: 50%;
     display: inline-block;
 }
 
 .nav-item {
     position: relative;
-    top: 50%;
-    height: 40px;
+   
+   
     display: inline-block; 
     margin-left: 16px;
     color: white;
-    line-height: 50%;
-   text-align: center;
+    
 }
 
 .content {
