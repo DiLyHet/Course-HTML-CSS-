@@ -15,6 +15,7 @@ z-index: 2;
     position: absolute;
     height: 40px;
     line-height: 50%;
+    padding-left: 1px;
     display: inline-block;
 }
 
