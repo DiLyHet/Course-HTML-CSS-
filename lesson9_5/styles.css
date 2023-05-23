@@ -36,9 +36,9 @@ margin-top: 0px;
     width: 200px;
     height: 200px;
     background-color: aquamarine;
-    position: relative;
-    left: calc(45%);
-    
+    position: absolute;
+    left: calc(50% - 100px);
+    right: calc(50% + 100px);
     top: 3%;
   
 }
