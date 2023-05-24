@@ -20,7 +20,7 @@ z-index: 2;
 }
 
 .nav-item {
-    height: 40px;
+    line-height: 50%;
     position: relative;
     display: inline-block;
     margin-right: 11px;
