@@ -13,20 +13,19 @@ z-index: 2;
 
 .navigation {
     position: absolute;
-    height: 40px;
     line-height: 50%;
     margin-left: 16px;
     display: inline-block;
+    z-index: 3;
 }
 
 .nav-item {
+    height: 40px;
     position: relative;
-    display: inline-block; 
+    display: inline-block;
     margin-right: 11px;
-    margin-top: 11px;
-    margin-bottom: 11px;
     color: white;
-    
+    z-index: 4;
 }
 
 .content {
