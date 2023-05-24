@@ -1,41 +1,35 @@
-* {
-    box-sizing: border-box;
-    z-index: 1;
-}
-
 .header {
+    background-color: darkturquoise;
     position: fixed;
     width: 100%;
-    background-color: darkturquoise;
+    z-index: 2;
     height: 40px;
-z-index: 2;
-}
-
-.navigation {
-    position: absolute;
-    line-height: 50%;
-    margin-left: 16px;
-    display: inline-block;
-    z-index: 3;
-}
-
-.nav-item {
+  }
+  
+  .content {
+    height: 5000px;
+    background-color: beige;
+  }
+  
+  .nav-list {
+    margin: 0;
     line-height: 40px;
-    position: relative;
-    display: inline-block;
-    margin-right: 11px;
+    list-style: none;
+  }
+  
+  .nav-item {
+    float: left;
+    margin-left: 16px;
     color: white;
-    z-index: 4;
-}
-
-.content {
+  }
+  .content {
     position: absolute;
     width: 100%;
     background-color: beige;
     height: 5000px;
-}
-
-.head {
+  }
+  
+  .head {
     width: 200px;
     height: 200px;
     background-color: aquamarine;
@@ -43,44 +37,43 @@ z-index: 2;
     left: calc(50% - 100px);
     right: calc(50% + 100px);
     top: 3%;
+  }
   
-}
-
-.ear {
+  .ear {
     width: 40px;
     height: 60px;
     background-color: brown;
-}
-
-.eye {
+  }
+  
+  .eye {
     width: 30px;
     height: 30px;
     border-radius: 50%;
     background-color: gray;
-}
-
-.ear_right {
+  }
+  
+  .ear_right {
     position: relative;
     bottom: 30%;
     left: 20%;
     float: right;
-}
-
-.ear_left {
+  }
+  
+  .ear_left {
     position: relative;
     bottom: 30%;
     right: 20%;
     float: left;
-}
-
-.eye_right {
-position: relative;
-top: 40%;
-float: right;
-}
-
-.eye_left {
-position: relative;
-top: 40%;
-float: left;
-}
+  }
+  
+  .eye_right {
+    position: relative;
+    top: 40%;
+    float: right;
+  }
+  
+  .eye_left {
+    position: relative;
+    top: 40%;
+    float: left;
+  }
