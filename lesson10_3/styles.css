@@ -1,0 +1,64 @@
+.header_container {
+    height: 40px;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+}
+
+.header_text {
+margin-left: 16px;
+}
+
+.section {
+    background-color: pink;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+}
+
+.main {
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+.h2 {
+    margin: auto;
+}
+
+
+.aside {
+    background-color: grey;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.li {
+    margin-left: 16px;
+    list-style-type: none;
+    margin-bottom: 15px;
+}
+
+.div1 {
+    margin: auto;
+}
+
+
+.ul {
+    margin: 0px;
+    padding: 0px;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+
+.footer {
+display: flex;
+height: 40px;
+background-color: green;
+}
+
+.div2 {
+margin: auto;
+}
