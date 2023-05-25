@@ -19,7 +19,7 @@ margin-left: 16px;
 .main {
     display: flex;
     flex-wrap: wrap;
-    height: 100vh;
+    height: 80vh;
 }
 
 .h2 {
