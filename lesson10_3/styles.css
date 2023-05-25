@@ -18,6 +18,8 @@ margin-left: 16px;
     display: flex;
     flex-grow: 1;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .main {
@@ -31,7 +33,7 @@ body{
     flex-wrap: wrap;
 }
 .h2 {
-    margin: auto;
+    
 }
 
 .h2_2 {
