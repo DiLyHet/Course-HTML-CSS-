@@ -1,3 +1,7 @@
+* {
+    margin: 0px;
+}
+
 .header_container {
     height: 40px;
     background-color: yellow;
@@ -19,7 +23,7 @@ margin-left: 16px;
 .main {
     display: flex;
     flex-wrap: wrap;
-    height: 80vh;
+    height: 90vh;
 }
 
 .h2 {
@@ -51,6 +55,7 @@ margin-left: 16px;
     padding: 0px;
     justify-content: space-between;
     flex-grow: 1;
+    height: 40px;
 }
 
 .footer {
