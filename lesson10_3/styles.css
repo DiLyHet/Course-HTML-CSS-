@@ -23,11 +23,15 @@ margin-left: 16px;
 .main {
     display: flex;
     flex-wrap: wrap;
-    height: 90vh;
+    height: 80vh;
 }
 
 .h2 {
     margin: auto;
+}
+
+.h2_2 {
+    margin: 15px;
 }
 
 
