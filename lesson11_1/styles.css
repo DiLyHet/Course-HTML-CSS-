@@ -5,3 +5,9 @@ display: none;
 .div2 {
 visibility: hidden;
 }
+
+.div {
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+}
