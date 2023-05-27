@@ -2,12 +2,15 @@
     box-sizing: border-box;
 }
 
-.articles {
+body {
+    display: flex;
+}
+
+.div {
 height: 100px;
-flex-basis: 150px;
+width: 150px;
 background-color: beige;
 margin: 16px;
-display: flex;
 }
 
 .visible-text {
