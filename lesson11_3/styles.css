@@ -4,9 +4,9 @@
 
 .dropdown {
     margin: 16px;
-    padding-top: 17px;
+    padding-top: 15px;
 display: inline-block;
-position: absolute;
+
 }
 
 .menu-button {
@@ -23,9 +23,9 @@ position: absolute;
 }
 
 .menu-list {
-    position: relative;
-    top: 15px;
+    
 margin: 0px;
+margin-top: 15px;
 padding: 0px;
 background-color: lightcyan;
 color: black;
