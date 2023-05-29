@@ -5,11 +5,15 @@
 .thumb {
     margin: 8px;
     max-width: calc(100/11%);
-    min-width: 200px;
+    min-width: 250px;
 }
 
 .gallery {
     display: flex;
     flex-wrap: nowrap;
     overflow-x: hidden;
+}
+
+.gallery:hover {
+    cursor: all-scroll;
 }
