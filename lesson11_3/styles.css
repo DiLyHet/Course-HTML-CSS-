@@ -51,6 +51,7 @@ list-style-type: none;
 .last-item {
     margin-top: 0;
     padding-top: 15px;
+    margin-bottom: 1px;
 }
 
 .menu-item:hover {
