@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.thumb {
+    margin: 8px;
+    max-width: calc(100/11%);
+    overflow-x: auto;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: nowrap;
+}
