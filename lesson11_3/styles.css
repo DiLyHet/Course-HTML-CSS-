@@ -5,13 +5,11 @@
 .dropdown {
     margin: 16px;
    position: relative;
-
+display: inline-block;
 
 }
 
 .menu-button {
-    position: absolute;
-    display: inline-block;
  padding: 16px;
  margin: 0px;
  background-color: darkgreen;
@@ -38,7 +36,7 @@ z-index: 1;
 visibility: hidden;
 }
 
-.menu-button:hover .menu-list {
+.dropdown:hover .menu-list {
     visibility: visible;
 }
 
