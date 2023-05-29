@@ -48,8 +48,9 @@ margin-bottom: 1px;
 list-style-type: none;
 }
 
-.li:last-of-type {
-    margin-top: 0.5px;
+.last-item {
+    margin-top: 0;
+    padding-top: 15px;
 }
 
 .menu-item:hover {
