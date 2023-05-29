@@ -43,7 +43,8 @@ display: none;
 
 .menu-item {
 line-height: 18px;
-padding: 15px;
+padding: 16px;
+margin-bottom: 1px;
 list-style-type: none;
 }
 
