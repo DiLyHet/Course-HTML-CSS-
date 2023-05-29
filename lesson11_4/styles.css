@@ -17,4 +17,9 @@
     position: relative;
     bottom: -48px;
     margin-left: 16px;
+    visibility: hidden;
+}
+
+body:hover .tooltip {
+    visibility: visible;
 }
