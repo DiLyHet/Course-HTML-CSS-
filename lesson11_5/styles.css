@@ -6,7 +6,7 @@
     margin: 8px;
     max-width: calc(100/11%);
     overflow-x: auto;
-    min-width: 100px;
+    min-width: 300px;
 }
 
 .gallery {
