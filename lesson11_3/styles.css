@@ -48,7 +48,7 @@ margin-bottom: 1px;
 list-style-type: none;
 }
 
-.menu-item:nth-last-of-type(1) {
+.li:last-of-type {
     margin-top: 0.5px;
 }
 
