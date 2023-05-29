@@ -49,7 +49,7 @@ list-style-type: none;
 }
 
 .menu-item:last-child {
-    margin-top: 1.5px;
+    margin-top: 1px;
 }
 
 .menu-item:hover {
