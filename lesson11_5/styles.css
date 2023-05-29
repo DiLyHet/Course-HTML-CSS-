@@ -5,7 +5,7 @@
 .thumb {
     margin: 8px;
     max-width: calc(100/11%);
-    min-width: 230px;
+    min-width: 220px;
 }
 
 .gallery {
