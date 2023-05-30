@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    margin: 0px;
 }
 
 .image {
@@ -9,8 +10,6 @@
     background-repeat: no-repeat;
     display: inline-block;
     margin: 16px;
-    margin-top: 12px;
-    margin-right: 11px;
     border: 1px dotted grey;
     background-position: center;
 }
