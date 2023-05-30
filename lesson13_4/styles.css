@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0px;
+    padding: 0px;
 }
 
 .image {
@@ -10,8 +11,7 @@
     background-repeat: no-repeat;
     display: inline-block;
     margin: 16px;
-    margin-top: 15.8px;
-    margin-right: 11px;
+    
     border: 1px dotted grey;
     background-position: center;
 }
