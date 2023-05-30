@@ -10,8 +10,11 @@
     background-size: contain;
     background-repeat: no-repeat;
     display: inline-block;
-    margin: 16px;
+    margin-right: 16px;
     
     border: 1px dotted grey;
     background-position: center;
+}
+.gallery{
+    margin-top: 16px;
 }
