@@ -2,7 +2,6 @@
     box-sizing: border-box;
 }
 body {
-    margin-top: 16px;
     margin-left: 16px;
 }
 
@@ -25,7 +24,7 @@ input[type="checkbox"] {
 .checkbox {
     position: relative;
     padding-left: 35px;
-    
+    top: 16px;
     font-size: 24px;
    
 }
