@@ -24,9 +24,10 @@ input[type="checkbox"] {
 .checkbox {
     position: relative;
     padding-left: 35px;
-    top: 15px;
+    top: 16px;
     font-size: 24px;
-   
+   line-height: 26.67px;
+   vertical-align: center;
 }
 
 .checkbox input:checked + .checkmark {
