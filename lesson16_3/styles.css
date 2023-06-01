@@ -17,14 +17,14 @@ input[type="checkbox"] {
     background-color: #d3d3d3;
     display: inline-block;
     position: absolute;
-    top: 0;
+    top: 1px;
     left: 0;
 }
 
 .checkbox {
     position: relative;
     padding-left: 35px;
-    top: 16px;
+    top: 15px;
     font-size: 24px;
    line-height: 26.67px;
    vertical-align: center;
