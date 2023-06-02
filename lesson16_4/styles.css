@@ -52,7 +52,7 @@ body {
     margin-top: 16px;
     color: white;
     text-transform: uppercase;
-    border-radius: 5px;
+    border-radius: 6px;
 }
 
 input:invalid {
