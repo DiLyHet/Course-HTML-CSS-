@@ -4,9 +4,12 @@
 
 body {
     background-color: bisque;
+    height: 100vh;
 }
 
 .page {
+    position: relative;
+    top: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -54,5 +57,5 @@ body {
 }
 
 input:invalid {
-    border: 3px solid #ff0000;
+
 }
