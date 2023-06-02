@@ -42,7 +42,12 @@ body {
     border: 1px solid #808080;
     padding: 4px;
     outline: none;
-    margin-top: 4px;
+   
+   
+}
+.form-label{
+    position: relative;
+    bottom: 4px;
 }
 
 .submit-button {
