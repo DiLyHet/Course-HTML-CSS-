@@ -42,7 +42,7 @@ body {
     border: 1px solid #808080;
     padding: 4px;
     outline: none;
-    margin-top: 4px;
+    margin-top: 5px;
 }
 
 .submit-button {
@@ -52,7 +52,7 @@ body {
     margin-top: 16px;
     color: white;
     text-transform: uppercase;
-    border-radius: 6px;
+    border-radius: 4px;
 }
 
 input:invalid {
