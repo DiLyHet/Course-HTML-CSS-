@@ -1,6 +1,5 @@
 body {
     margin-left: 16px;
-    font-size: 20px;
 }
 
 input[type="checkbox"] {
@@ -15,7 +14,7 @@ input[type="checkbox"] {
     background-color: #d3d3d3;
     display: inline-block;
     position: absolute;
-    top: 0;
+    top: 0px;
     left: 0;
 }
 
