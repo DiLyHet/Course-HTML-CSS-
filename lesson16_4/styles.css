@@ -11,10 +11,9 @@ body {
 
 .page {
    position: relative;
-    margin-top: 21vh;
+    margin-top: 25vh;
     display:flex;
-    flex-flow: column;
- 
+   
   align-items: center;
   justify-items: center;
    
