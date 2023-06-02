@@ -11,7 +11,7 @@ body {
 
 .page {
    position: relative;
-    margin-top: 25vh;
+    margin-top: 21vh;
     display:flex;
     flex-flow: column;
   flex-direction: column;
