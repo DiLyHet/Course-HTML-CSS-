@@ -4,31 +4,34 @@
 
 table {
     margin: 16px;
-    border: 1px solid black
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
 td {
     width: 50px;
     height: 50px;
-    text-align: center
-}
-
-tr:nth-child(even) > td:nth-child(odd) {
-    background-color: black;
-}
-
-tr:nth-child(even) > td:first-child {
-    background-color: white;
-}
-
-tr:nth-child(odd) > td:nth-child(even) {
-    background-color: black;
-}
-
-tr:nth-child(odd) > td:last-child {
-    background-color: white;
+    text-align: center;
+    border: 1px solid black;
 }
 
 .white {
     background-color: white !important;
+    border: none !important;
+}
+
+tr:nth-child(even)>td:nth-child(odd) {
+    background-color: black;
+}
+
+tr:nth-child(even)>td:first-child {
+    background-color: white;
+}
+
+tr:nth-child(odd)>td:nth-child(even) {
+    background-color: black;
+}
+
+tr:nth-child(odd)>td:last-child {
+    background-color: white;
 }
