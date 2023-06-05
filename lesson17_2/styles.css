@@ -1,5 +1,8 @@
-table {
+* {
     box-sizing: border-box;
+}
+
+table {
     width: 500px;
     margin: 16px;
     text-align: right;
@@ -11,7 +14,7 @@ table, td, th {
 }
 
 tr {
-    line-height: 40px;
+    line-height: 30px;
 }
 
 td, th {
