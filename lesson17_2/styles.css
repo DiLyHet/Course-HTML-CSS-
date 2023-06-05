@@ -10,9 +10,12 @@ table, td, th {
     border-collapse: collapse;
 }
 
+tr {
+    line-height: 40px;
+}
+
 td, th {
     padding: 4px;
-    line-height: 40px;
 }
 
 div {
