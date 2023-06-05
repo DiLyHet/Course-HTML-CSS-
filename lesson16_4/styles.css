@@ -6,13 +6,13 @@
 
 body {
     background-color: bisque;
-    height: 100vh;
 }
 
 .page {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 
 .login-form {
@@ -40,7 +40,6 @@ body {
     border: 1px solid #808080;
     padding: 4px;
     outline: none;
-    margin-top: 4px;
 }
 
 .submit-button {
@@ -51,6 +50,11 @@ body {
     color: white;
     text-transform: uppercase;
     border-radius: 4px;
+}
+
+.form-label {
+    display: inline-block;
+    margin-bottom: 4px;
 }
 
 input:invalid {
