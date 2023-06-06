@@ -1,6 +1,5 @@
 html {
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 700;
     box-sizing: border-box;
 }
 
@@ -16,6 +15,7 @@ html {
     height: 50px;
     line-height: 50px;
     vertical-align: middle;
+    font-weight: 700;
 }
 
 .newbutton:hover {
