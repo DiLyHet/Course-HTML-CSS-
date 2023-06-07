@@ -39,9 +39,9 @@
     border-right: 4px solid lightgrey;
     border-bottom: 4px solid lightgrey;
     border-radius: 50%;
+    margin: auto;
     margin-bottom: 8px;
     animation: rotate 2s linear infinite;
-    margin: auto;
 }
 
 @keyframes rotate {
