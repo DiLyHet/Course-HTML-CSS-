@@ -82,14 +82,17 @@ h1 {
     background-color: #808080;
     line-height: 2em;
     margin-bottom: 0.5em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: white;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
 }
 
 .nav-list-link {
     text-decoration: none;
     color: white;
-    padding-left: 0.5em;
-    padding-right: 0.5em;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    
+   
 }
