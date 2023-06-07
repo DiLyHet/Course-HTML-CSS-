@@ -71,6 +71,7 @@ h1 {
 
 .section__header {
     font-size: 5vw;
+    line-height: 5vw;
     text-align: center;
 }
 
