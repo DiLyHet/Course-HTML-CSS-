@@ -78,7 +78,7 @@ h1 {
 
 .nav-list {
     padding: 0px;
-    padding-top: 0.25em;
+    padding-top: 1px;
     list-style-type: none;
 }
 
