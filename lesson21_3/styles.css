@@ -90,6 +90,7 @@ h1 {
     text-overflow: ellipsis;
     color: white;
     padding-left: 0.5em;
+    padding-right: 0.5em;
 }
 
 .nav-list-link {
