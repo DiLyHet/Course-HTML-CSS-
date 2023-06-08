@@ -83,7 +83,6 @@ h1 {
 .nav-list-item {
     background-color: #808080;
     line-height: 2em;
-    font-size: 17px;
     margin-bottom: 0.5em;
     white-space: nowrap;
     overflow: hidden;
@@ -96,6 +95,4 @@ h1 {
 .nav-list-link {
     text-decoration: none;
     color: white;
-    
-   
 }
