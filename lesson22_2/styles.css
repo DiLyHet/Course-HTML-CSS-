@@ -18,19 +18,19 @@ div {
 
 .navigation {
     background-color: #ff7f50;
-    height: 200px;
-    flex: 1 1;
+    flex: 1;
+    min-height: 200px;
 }
 
 .list {
     background-color: #006400;
-    height: 200px;
-    flex: 1 1;
+    min-height: 200px;
+    flex: 1;
 }
 
 .news {
     background-color: #0ff;
-    height: 200px;
+    min-height: 200px;
 }
 
 .text {
@@ -58,6 +58,6 @@ div {
     }
 
     .news {
-        flex: 1 1;
+        flex: 1;
     }
 }
