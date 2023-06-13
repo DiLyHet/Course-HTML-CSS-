@@ -19,13 +19,13 @@ div {
 .navigation {
     background-color: #ff7f50;
     height: 200px;
-    flex-grow: 1;
+    flex: 1 1;
 }
 
 .list {
     background-color: #006400;
     height: 200px;
-    flex-grow: 1;
+    flex: 1 1;
 }
 
 .news {
@@ -54,10 +54,10 @@ div {
     }
 
     .products {
-        flex-grow: 2;
+        flex: 2;
     }
 
     .news {
-        flex-grow: 1;
+        flex: 1 1;
     }
 }
