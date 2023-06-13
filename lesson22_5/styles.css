@@ -101,13 +101,10 @@ body {
 
 img {
     max-width: 100%;
-}
-
-picture {
     box-shadow: 0px 4px 8px 0px rgb(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1199.9px) {
     .main {
         flex-direction: column;
     }
@@ -119,7 +116,7 @@ picture {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 599.9px) {
     .div {
         flex-direction: column;
     }
