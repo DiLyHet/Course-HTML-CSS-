@@ -114,6 +114,13 @@ img {
     .news {
         width: 100%;
     }
+    .navigation {
+        width: 20%;
+    }
+    
+    .section {
+        width: 80%;
+    }
 }
 
 @media screen and (max-width: 599.9px) {
