@@ -15,15 +15,16 @@
     align-content: center;
 
     &__item {
-        margin-right: 8px;
-        margin-left: 8px;
+        padding-left: 8px;
+        padding-right: 8px;
 
         &_active {
             color: yellow;
         }
-
+        
         &_active:hover {
             .submenu {
+                padding-left: 0px;
                 display: block;
             }
         }
@@ -46,7 +47,7 @@
     list-style-type: none;
 
     &__item {
-        margin-left: 8px;
+        padding-left: 8px;
     }
 
     &__item:hover {
