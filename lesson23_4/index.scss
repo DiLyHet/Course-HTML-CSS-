@@ -1,0 +1,47 @@
+@import './layout.scss';
+
+.navigation {
+    background-color: #ff7f50;
+    flex: 1;
+    min-height: 200px;
+}
+
+.list {
+    background-color: #006400;
+    min-height: 200px;
+    flex: 1;
+}
+
+.news {
+    background-color: #0ff;
+    min-height: 200px;
+}
+
+.text {
+    text-transform: lowercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #faebd7;
+    padding: 8px;
+    border-radius: 4px;
+    margin: auto;
+}
+
+@media screen and (min-width: 600px) {
+    .products {
+        flex-direction: row;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    body {
+        flex-direction: row;
+    }
+
+    .products {
+        flex: 2;
+    }
+
+    .news {
+        flex: 1;
+    }
+}
